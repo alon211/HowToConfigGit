@@ -1,0 +1,10 @@
+git 只下载github指定文件夹
+git init
+git remote rm origin
+git config core.sparseCheckout true
+git remote add -f origin git://...
+git checkout brachname or foldname
+
+git操作
+廖雪峰GIT教程:https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424
+https://blog.csdn.net/u013851082/article/details/73105579
